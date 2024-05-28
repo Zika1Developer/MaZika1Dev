@@ -17,9 +17,9 @@
 
 **I'm dedicated to crafting innovative solutions, securing the digital realm, and actively contributing to open-source projects. I'm passionate about diving deep into code and bringing creative ideas to life. Let's connect and collaborate on exciting projects!**
 
-# My Social Media
+# Special Studio Social Media
 
-[Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar) | [Twitch](https://www.twitch.tv/#)
+[Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar)
 
 ![Special's GitHub stats](https://github-readme-stats.vercel.app/api?username=specialstudioar&show_icons=true&theme=transparent)
 
